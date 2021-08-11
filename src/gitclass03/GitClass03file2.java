@@ -1,12 +1,13 @@
 package gitclass03;
 
-public class GitClass03 {
+public class GitClass03file2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("this is the first commit");
+		
+		System.out.println("this is the second commit");
 		
 		
 	}
